@@ -1,10 +1,10 @@
-# jtc_technical_pq.py
+#jtc_technical_pq.py
 
 def jtc_technical():
-    #print()
-    pass
+    print('Hello World?')
     
-jtc_technical()
+
+    #jtc_technical()
 
 '''
 Step 1
@@ -12,6 +12,7 @@ Step 1
         Delete the uncomment Line 4
         Modify Line 4 so it prints Hello World?
        
+        
 Step 2
     'run' your code in your terminal by
         1. 'cd' into the folder into which this file is located
